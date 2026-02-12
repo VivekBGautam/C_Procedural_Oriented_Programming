@@ -1,7 +1,7 @@
 # Assignment 68 : Recursive Pattern Programs
 
 ## Aim 
-
+ 
 To study and implement **recursive functions in C** for printing different patterns without using any looping constructs.
 
 ---
@@ -126,6 +126,7 @@ This assignment improves understanding of **recursion**, **base conditions**, an
 **GitHub:** [https://github.com/vivekbgautam](https://github.com/vivekbgautam)
 
 **Date:** 11-02-2026 
+
 
 
 
