@@ -30,7 +30,7 @@ Write a recursive program which displays the following pattern.
 **Output:**
 
 ```
-*
+*  *  *  *  *
 ```
 
 **Prototype:**
@@ -48,8 +48,7 @@ Write a recursive program which displays the following pattern.
 **Output:**
 
 ```
-1
-2 3
+1  2  3  4  5
 ```
 
 **Prototype:**
@@ -67,9 +66,7 @@ Write a recursive program which displays the following pattern.
 **Output:**
 
 ```
-5
-4 3
-2 1
+5  4  3  2  1
 ```
 
 **Prototype:**
@@ -87,12 +84,7 @@ Write a recursive program which displays the following pattern.
 **Output:**
 
 ```
-F
-A
-B
-C
-D
-E
+A  B  C  D  E  F
 ```
 
 **Prototype:**
@@ -110,12 +102,7 @@ Write a recursive program which displays the following pattern.
 **Output:**
 
 ```
-a
-b
-C
-d
-e
-f
+a  b  c  d  e  f
 ```
 
 **Prototype:**
@@ -139,4 +126,5 @@ This assignment improves understanding of **recursion**, **base conditions**, an
 **GitHub:** [https://github.com/vivekbgautam](https://github.com/vivekbgautam)
 
 **Date:** 11-02-2026
+
 
