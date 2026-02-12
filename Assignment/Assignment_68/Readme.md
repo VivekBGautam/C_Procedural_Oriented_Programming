@@ -87,7 +87,7 @@ Write a recursive program which displays the following pattern.
 A  B  C  D  E  F
 ```
 
-**Prototype:**
+**Prototype:** 
 
 ```c
 void Display();
@@ -126,6 +126,7 @@ This assignment improves understanding of **recursion**, **base conditions**, an
 **GitHub:** [https://github.com/vivekbgautam](https://github.com/vivekbgautam)
 
 **Date:** 11-02-2026 
+
 
 
 
