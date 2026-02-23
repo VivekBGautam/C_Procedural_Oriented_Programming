@@ -1,6 +1,6 @@
 # Assignment 68 : Recursive Pattern Programs
 
-## Aim 
+## Aim  
  
 To study and implement **recursive functions in C** for printing different patterns without using any looping constructs.
 
