@@ -4,7 +4,7 @@
  
 To study and implement **recursive functions in C** for printing different patterns without using any looping constructs.
 
----
+--- 
 
 ## File Structure
 
