@@ -1,6 +1,6 @@
 // 1   2    3   4    5
 
-#include<stdio.h> 
+#include<stdio.h>
 
 void Display() 
 {
