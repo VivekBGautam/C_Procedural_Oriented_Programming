@@ -2,7 +2,7 @@
 
 #include<stdio.h>
 
-void Display() 
+void Display()
 {
     printf("1\t");
     printf("2\t");
