@@ -2,7 +2,7 @@
 
 #include<stdio.h> 
 
-void Display()
+void Display() 
 {
     int iCnt = 0;
 
