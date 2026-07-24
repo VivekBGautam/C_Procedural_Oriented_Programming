@@ -12,7 +12,7 @@
 
 #include<stdio.h> 
 
-void CheckEvenOdd(int iNo)
+void CheckEvenOdd(int iNo) 
 {
     int iRem = 0;
 
