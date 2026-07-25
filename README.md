@@ -1,7 +1,7 @@
 # 🚀 c-programming-fundamentals
 
 ## 📌 About
-This repository contains a structured collection of C programs focused on building a strong foundation in programming. It covers core concepts, logic building, and problem-solving using one of the most fundamental programming languages. 
+This repository contains a structured collection of C programs focused on building a strong foundation in programming. It covers core concepts, logic building, and problem-solving using one of the most fundamental programming languages.
 
 --- 
 
