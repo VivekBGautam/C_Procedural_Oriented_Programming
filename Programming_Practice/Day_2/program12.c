@@ -1,5 +1,5 @@
 /*
-    Algorithum
+    Algorithum 
     START
         Accept number And store as no
         Divide no by 2
