@@ -1,6 +1,6 @@
 /*
     Algorithum 
-    START
+    START 
         Accept number And store as no
         Divide no by 2
         If the remender is 0 
