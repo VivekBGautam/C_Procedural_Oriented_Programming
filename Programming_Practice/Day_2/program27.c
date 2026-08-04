@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-// Dynamic funtion 
+// Dynamic funtion
 
 void Display(int iFrequency) 
 {
