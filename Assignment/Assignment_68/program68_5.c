@@ -8,7 +8,7 @@
 ///////////////////////////////////////////////////////////
 //
 //  Function Name : Display()
-//  Description   : It is a recursive function 
+//  Description   : It is a recursive function
 //                  Which Display the pattern
 // Input          : Number of patter to print 
 // Output         : Display Desired Pattern on Scren
